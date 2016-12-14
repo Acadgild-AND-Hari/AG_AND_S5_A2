@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/id_phone"
+        android:icon="@drawable/ic_smartphone"
+        android:title="@string/str_phone"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/id_computer"
+        android:title="@string/str_computer" />
+    <item
+        android:id="@+id/id_game_pad"
+        android:title="@string/str_game_pad" />
+</menu>
